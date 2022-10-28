@@ -1,0 +1,8 @@
+What are the basic git commands you know ?
+
+git clone  - getting remote repository to local
+git add    -  <File name> (adding single file)
+git add .  - (adding all files)
+git commit -m "commit messsage"
+git push origin/ git push 
+git pull   - to fetch the file from the remote repository

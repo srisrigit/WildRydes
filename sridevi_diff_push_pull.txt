@@ -1,0 +1,6 @@
+What is the difference between push and pull?
+"Push request" is termed so because it is done when the target repository
+requests us to push our changes to it.
+
+"Pull request" is named as such due to the fact that the repo requests the target
+repository to grab (or pull) the changes from it.

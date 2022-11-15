@@ -1,0 +1,6 @@
+What is stashing?
+Git stash can be used in cases where we need to switch in between branches and
+at the same time not wanting to lose edits in the current branch.
+Running git stash command basically pushes the current workind directory state
+and index to the stack for future use and thereby providing a clean working
+directory for other tasks.

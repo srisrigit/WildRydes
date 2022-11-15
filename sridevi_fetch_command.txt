@@ -1,0 +1,3 @@
+What is fetch command?
+Git fetch command will get all the updates from the remote repository, 
+including new branches.
